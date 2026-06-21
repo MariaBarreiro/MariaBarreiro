@@ -73,9 +73,3 @@ maria@github:~$ echo "contact me for ideas, collaborations, learning, projects, 
 
 ---
 
-<div align="center">
-
-<sub>dark blue terminal energy · pastel blue · pink · purple · lavender · lilac</sub>
-
-</div>
-
