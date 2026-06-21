@@ -13,7 +13,7 @@ Maria Barreiro
 Curious about code, creativity, music, systems, and ideas worth building.
 
 <span style="color:#A7C7E7">maria@github</span>:<span style="color:#CDB4DB">~</span>$ ./connect --ideas
-Open to projects, learning, collaborations, teaching, music-tech, and unexpected ideas.
+Open to projects, learning, collaborations, teaching, and unexpected ideas.
 </pre>
 
 </div>
@@ -30,7 +30,7 @@ focus="learning, building, experimenting"
 status="open to all kinds of ideas"
 ```
 
-I like understanding how things work from the inside out — whether that means debugging C, studying systems, teaching, practicing piano, or turning small ideas into something real.
+I like understanding how things work from the inside out — whether that means debugging C, teaching, practicing piano, or turning small ideas into something real.
 
 ---
 
@@ -42,7 +42,6 @@ I like understanding how things work from the inside out — whether that means 
 ![Shell](https://img.shields.io/badge/Shell-A7C7E7?style=for-the-badge&logo=gnubash&logoColor=1B1B3A)
 ![Git](https://img.shields.io/badge/Git-FFC8DD?style=for-the-badge&logo=git&logoColor=1B1B3A)
 ![Linux](https://img.shields.io/badge/Linux-CDB4DB?style=for-the-badge&logo=linux&logoColor=1B1B3A)
-![VS Code](https://img.shields.io/badge/VS_Code-BDE0FE?style=for-the-badge&logo=visualstudiocode&logoColor=1B1B3A)
 
 </div>
 
