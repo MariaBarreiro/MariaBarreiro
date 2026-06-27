@@ -39,9 +39,11 @@ I like understanding how things work from the inside out — whether that means 
 <div align="center">
 
 ![C](https://img.shields.io/badge/C-B8C0FF?style=for-the-badge&logo=c&logoColor=1B1B3A)
+![C++](https://img.shields.io/badge/C%2B%2B-BDE0FE?style=for-the-badge&logo=cplusplus&logoColor=1B1B3A)
 ![Shell](https://img.shields.io/badge/Shell-A7C7E7?style=for-the-badge&logo=gnubash&logoColor=1B1B3A)
 ![Git](https://img.shields.io/badge/Git-FFC8DD?style=for-the-badge&logo=git&logoColor=1B1B3A)
 ![Linux](https://img.shields.io/badge/Linux-CDB4DB?style=for-the-badge&logo=linux&logoColor=1B1B3A)
+![NVIM](https://img.shields.io/badge/NVIM-D8B4FE?style=for-the-badge&logo=neovim&logoColor=1B1B3A)
 
 </div>
 
@@ -72,4 +74,3 @@ maria@github:~$ echo "contact me for ideas, collaborations, learning, projects, 
 ```
 
 ---
-
