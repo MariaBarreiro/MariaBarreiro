@@ -66,6 +66,7 @@ I like understanding how things work from the inside out — whether that means 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Barreiro-BDE0FE?style=for-the-badge&logo=linkedin&logoColor=1B1B3A)](https://www.linkedin.com/in/maria-barreiro-5918b4290/?locale=pt)
 [![GitHub](https://img.shields.io/badge/GitHub-MariaBarreiro-CDB4DB?style=for-the-badge&logo=github&logoColor=1B1B3A)](https://github.com/MariaBarreiro)
+[![Email](https://img.shields.io/badge/Email-mariaeobarreiro%40gmail.com-F5A9D6?style=for-the-badge&logo=gmail&logoColor=1B1B3A)](mailto:mariaeobarreiro@gmail.com)
 
 </div>
 
