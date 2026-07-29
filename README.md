@@ -53,8 +53,8 @@ I like understanding how things work from the inside out — whether that means 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MariaBarreiro&show_icons=true&hide_border=true&title_color=F5A9D6&icon_color=CDB4DB&text_color=BDE0FE&bg_color=0D1026" alt="Maria's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaBarreiro&layout=compact&hide_border=true&title_color=F5A9D6&text_color=BDE0FE&bg_color=0D1026" alt="Maria's most used languages" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaBarreiro&theme=tokyonight" alt="Maria's GitHub stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariaBarreiro&theme=tokyonight" alt="Maria's most used languages" />
 
 </div>
 
