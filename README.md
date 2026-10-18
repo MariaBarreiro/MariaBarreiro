@@ -1,77 +1,42 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2600&pause=900&color=F5A9D6&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Maria+%F0%9F%8C%99;42+student+%7C+pianist+%7C+teacher;learning+one+line+at+a+time+%E2%9C%A8" alt="Typing animation introducing Maria" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2800&pause=1000&color=C6A8C3&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Maria+%F0%9F%8C%99;Junior+Software+Developer;Pianist+%26+Teacher" alt="Hi, I'm Maria — software developer, pianist and teacher" />
 
-<br />
+<p>42 Porto · Software development · Piano</p>
 
-<pre>
-<span style="color:#A7C7E7">maria@github</span>:<span style="color:#CDB4DB">~</span>$ whoami
-Maria Barreiro
-
-<span style="color:#A7C7E7">maria@github</span>:<span style="color:#CDB4DB">~</span>$ cat about.txt
-42 student · pianist · teacher
-Curious about code, creativity, music, systems, and ideas worth building.
-
-<span style="color:#A7C7E7">maria@github</span>:<span style="color:#CDB4DB">~</span>$ ./connect --ideas
-Open to projects, learning, collaborations, teaching, and unexpected ideas.
-</pre>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-A7C7E7?style=flat-square&logo=linkedin&logoColor=1B1B3A)](https://www.linkedin.com/in/maria-barreiro-5918b4290/)
+[![GitHub](https://img.shields.io/badge/GitHub-CDB4DB?style=flat-square&logo=github&logoColor=1B1B3A)](https://github.com/MariaBarreiro)
 
 </div>
 
 ---
 
-## 🌌 About me
+## About
 
-```bash
-name="Maria Barreiro"
-role="42 student"
-also="pianist && teacher"
-focus="learning, building, experimenting"
-status="open to all kinds of ideas"
-```
+Junior software developer focused on C, C++ and Unix systems. I also teach piano and perform as a classical pianist.
 
-I like understanding how things work from the inside out — whether that means debugging C, teaching, practicing piano, or turning small ideas into something real.
+## Selected projects
 
----
+**Minishell** · **Cub3D** · **Philosophers** · **Webserv**
 
-## 🛠️ Current stack
+## Technologies
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-B8C0FF?style=for-the-badge&logo=c&logoColor=1B1B3A)
-![C++](https://img.shields.io/badge/C%2B%2B-BDE0FE?style=for-the-badge&logo=cplusplus&logoColor=1B1B3A)
-![Shell](https://img.shields.io/badge/Shell-A7C7E7?style=for-the-badge&logo=gnubash&logoColor=1B1B3A)
-![Git](https://img.shields.io/badge/Git-FFC8DD?style=for-the-badge&logo=git&logoColor=1B1B3A)
-![Linux](https://img.shields.io/badge/Linux-CDB4DB?style=for-the-badge&logo=linux&logoColor=1B1B3A)
-![NVIM](https://img.shields.io/badge/NVIM-D8B4FE?style=for-the-badge&logo=neovim&logoColor=1B1B3A)
+![C](https://img.shields.io/badge/C-A7C7E7?style=for-the-badge&logo=c&logoColor=1B1B3A)
+![C++](https://img.shields.io/badge/C%2B%2B-B9A9CC?style=for-the-badge&logo=cplusplus&logoColor=1B1B3A)
+![Shell](https://img.shields.io/badge/Shell-AEC3C9?style=for-the-badge&logo=gnubash&logoColor=1B1B3A)
+![Git](https://img.shields.io/badge/Git-D9AFC5?style=for-the-badge&logo=git&logoColor=1B1B3A)
+![Linux](https://img.shields.io/badge/Linux-B9B8D5?style=for-the-badge&logo=linux&logoColor=1B1B3A)
+![Neovim](https://img.shields.io/badge/Neovim-C9B6BE?style=for-the-badge&logo=neovim&logoColor=1B1B3A)
 
 </div>
 
----
-
-## 📊 GitHub stats
+## GitHub activity
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaBarreiro&theme=tokyonight" alt="Maria's GitHub stats" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariaBarreiro&theme=tokyonight" alt="Maria's most used languages" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaBarreiro&theme=tokyonight" alt="Maria's GitHub statistics" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariaBarreiro&theme=tokyonight" alt="Most used languages" />
 
 </div>
-
----
-
-## 💌 Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BDE0FE?style=for-the-badge&logo=linkedin&logoColor=1B1B3A)](https://www.linkedin.com/in/maria-barreiro-5918b4290/?locale=pt)
-[![GitHub](https://img.shields.io/badge/GitHub-CDB4DB?style=for-the-badge&logo=github&logoColor=1B1B3A)](https://github.com/MariaBarreiro)
-[![Email](https://img.shields.io/badge/Email-F5A9D6?style=for-the-badge&logo=gmail&logoColor=1B1B3A)](mailto:mariaeobarreiro@gmail.com)
-
-</div>
-
-```bash
-maria@github:~$ echo "contact me for ideas, collaborations, learning, projects, music, code, or anything interesting"
-```
-
----
